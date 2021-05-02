@@ -1,4 +1,4 @@
-### Rainbow Click2Call Server
+# Rainbow Click2Call Server
 
 ## Usage
 
